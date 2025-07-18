@@ -36,7 +36,7 @@ const Landing = () => {
       </div>
       <div className="w-full h-[200px]">
         <img
-          src="/assets/bg-curvy-desktop.svg"
+          src="./images/bg-curvy-desktop.svg"
           className="w-full h-full "
         />
       </div>
