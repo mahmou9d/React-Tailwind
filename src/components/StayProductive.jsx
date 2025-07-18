@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 // @ts-ignore
-import ArrowImg from "/src/public/images/icon-arrow.svg";
+import ArrowImg from "./images/icon-arrow.svg";
 // @ts-ignore
-import StayProductiveImg from "/src/public/images/illustration-stay-productive.png";
+import StayProductiveImg from "./images/illustration-stay-productive.png";
 function StayProductive() {
   return (
     <section>
