@@ -24,7 +24,7 @@ function Header() {
       <div className="container flex justify-between items-center sm:gap-0 flex-col sm:flex-row">
         <Link to="/">
           <img
-            src="/src/assets/images/images.png"
+            src="/assets/images/images.png"
             alt="logo-img"
             className="w-[300px] h-[150px] object-contain"
           />

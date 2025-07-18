@@ -7,7 +7,7 @@ const Landing = () => {
       <div className="container">
         <div className="w-[800px] max-w-full mx-auto element-center flex-col pt-[250px] sm:pt-[100px]  relative z-20">
           <img
-            src="/src/assets/images/landing-img.png"
+            src="/assets/images/landing-img.png"
             alt="landing"
             draggable={false}
             className="w-full h-fit object-contain"
@@ -36,7 +36,7 @@ const Landing = () => {
       </div>
       <div className="w-full h-[200px]">
         <img
-          src="/src/assets/images/bg-curvy-desktop.svg"
+          src="/assets/images/bg-curvy-desktop.svg"
           className="w-full h-full "
         />
       </div>
